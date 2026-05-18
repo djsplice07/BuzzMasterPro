@@ -1,0 +1,7 @@
+{
+  "name": "BuzzMaster Live Quiz Platform",
+  "description": "A high-performance, real-time live quiz show platform with dedicated views for Main Display, Mobile Buzzer, and Admin Control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
